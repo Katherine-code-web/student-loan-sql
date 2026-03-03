@@ -1,0 +1,13 @@
+inst_name,state,control_label,enrollment,debt,earnings_10yr,roi_ratio,default_pct,completion_pct
+Wellesley College,MA,Private Non-Profit,2318.0,8700.0,84803.0,9.7,0.0,91.2
+Johns Hopkins University,MD,Private Non-Profit,5617.0,9000.0,87555.0,9.7,0.0,94.6
+Yale University,CT,Private Non-Profit,6811.0,11648.0,100533.0,8.6,0.0,96.3
+Foothill College,CA,Public,10922.0,6795.0,57072.0,8.4,0.0,60.0
+Pomona College,CA,Private Non-Profit,1638.0,10000.0,77779.0,7.8,0.0,93.2
+Williams College,MA,Private Non-Profit,2060.0,11667.0,88665.0,7.6,0.0,96.6
+University of California-Davis,CA,Public,31777.0,11000.0,80838.0,7.3,0.0,85.1
+Scripps College,CA,Private Non-Profit,1077.0,11853.0,77539.0,6.5,0.0,87.1
+University of California-Santa Barbara,CA,Public,23205.0,11875.0,74915.0,6.3,0.0,85.3
+Maryville University of Saint Louis,MO,Private Non-Profit,5988.0,10041.0,62105.0,6.2,0.0,71.5
+California State University-Stanislaus,CA,Public,8564.0,11750.0,63188.0,5.4,0.0,58.0
+University of North Florida,FL,Public,13915.0,11750.0,56343.0,4.8,0.0,68.2

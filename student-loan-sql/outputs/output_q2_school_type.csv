@@ -1,0 +1,4 @@
+school_type,num_schools,avg_debt,avg_default_pct,avg_repayment_pct,avg_earnings_10yr,avg_completion_pct,avg_pct_with_loans,debt_to_earnings
+Public,686,9590.0,0.1,46.8,45964.0,49.2,21.7,0.21
+Private For-Profit,279,8695.0,0.1,38.5,31037.0,45.4,57.2,0.28
+Private Non-Profit,556,16408.0,0.0,62.1,57792.0,58.7,51.0,0.28

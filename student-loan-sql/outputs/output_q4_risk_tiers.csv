@@ -1,0 +1,5 @@
+risk_tier,num_schools,avg_default_pct,avg_repayment_pct,avg_completion_pct,avg_earnings,avg_debt
+🟢 Low Risk,189,0.0,65.5,60.5,55766.0,16693.0
+🟡 Moderate Risk,207,0.0,55.1,49.9,50514.0,15173.0
+🔵 Very Safe,200,0.0,79.0,77.1,72702.0,18130.0
+🔴 High Risk,245,0.0,37.6,35.2,41302.0,11785.0
